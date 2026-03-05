@@ -291,6 +291,3 @@ By integrating **Wazuh, n8n, and MISP**, the system can automatically:
 * generate actionable alerts for security analysts
 
 This approach improves SOC operational efficiency and reduces manual investigation effort.
-
-```ne very powerful improvement that will make this SOAR repo look like a senior security engineer project**.
-```
