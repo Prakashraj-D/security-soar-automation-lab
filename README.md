@@ -157,4 +157,3 @@ Incident response automation
 ## Author
 
 Prakash Raj D  
-Cyber Security Intern
